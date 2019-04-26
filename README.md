@@ -1,8 +1,8 @@
-# Understanding Electronic Health Records for Stroke Prediction
+# Predicting Stroke from Electronic Health Records
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: 
 
-> C. S. Nwosu\*, S. Dev\*, P. Bhardwaj, B. Veeravalli and D. John, Understanding Electronic Health Records for Stroke Prediction, *Proc. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019. (\* Authors contributed equally.)
+> C. S. Nwosu\*, S. Dev\*, P. Bhardwaj, B. Veeravalli and D. John, Predicting Stroke from Electronic Health Records, *Proc. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019. (\* Authors contributed equally.)
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
